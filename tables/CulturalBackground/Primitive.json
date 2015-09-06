@@ -1,0 +1,15 @@
+{
+  "skills": {
+    "Basic Weapon": 3,
+    "Hunting": 4,
+    "Gathering": 4,
+    "Wilderness Survival": 5,
+    "Urban Survival": 1
+  },
+  "weapons": [
+    "Club",
+    "Spear",
+    "Bow and Arrow"
+  ],
+  "Literacy": "5%"
+}

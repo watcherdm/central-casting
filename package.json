@@ -1,0 +1,19 @@
+{
+  "name": "central-casting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "selector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:webspinner/central-casting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webspinner/central-casting/issues"
+  },
+  "homepage": "https://github.com/webspinner/central-casting"
+}
